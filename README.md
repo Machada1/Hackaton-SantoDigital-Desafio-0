@@ -20,7 +20,7 @@ de números. Por exemplo, se a entrada for [1, 2], a saída deve ser [[], [1],
 Observação: Utilize a linguagem de programação que você mais domina
 
 
-# Lógica de Programação Exercício II (Avançado)
+# Exercício II (Avançado)
 
 Dado um array de números inteiros, escreva uma função que retorne o
 par de números com a menor diferença absoluta. Se houver mais de um
@@ -37,7 +37,7 @@ Se definido como True, a função deve retornar apenas pares
 únicos (ou seja, (a, b) e (b, a) são considerados o mesmo par).
 
 
-#Lógica de Programação Exercício III (Avançado)
+# Exercício III (Avançado)
 
 Escreva uma função que retorne todos os subconjuntos de um conjunto
 de números. A função deve permitir os seguintes parâmetros opcionais:
