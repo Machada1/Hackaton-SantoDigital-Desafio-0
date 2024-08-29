@@ -1,5 +1,6 @@
 # Hackaton-SantoDigital-Desafio-0
 Repositório para hospedar o Desafio 0 de programação para o hackaton da SantoDigital.
+Desafio realizado inteiramente em python.
 
 O desafio constitui os seguintes exercícios:
 
